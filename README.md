@@ -6,5 +6,7 @@ In my linear regression analysis project, I explored the relationships between s
 Employing the R programming environment, I performed multiple linear regression to evaluate the relationships between these variables and provided an example of a visual representation of the results in the form of a graph created with R. Regression_Project.pdf provides a summary of my methodology and the results obtained. 
 
 
-![image](https://github.com/HimashaK/RegressionProject/assets/90633056/a9e256c7-35aa-4306-b9eb-4ab5fd204448)
+<p align="center">
+  <img src="https://github.com/HimashaK/RegressionProject/assets/90633056/a9e256c7-35aa-4306-b9eb-4ab5fd204448" width="50%" height="50%">
+</p>
 
