@@ -1,4 +1,4 @@
-# RegressionProject
+# Linear Regression Analysis Project
 
 
 In my linear regression analysis project, I explored the relationships between socio-economic factors and death rates in small cities across America. Using a dataset from G. Scott Thomas's book, which included variables like doctor and hospital availability, income, and population density, I conducted a multiple linear regression analysis. My primary objective was to understand how factors, especially income, impact death rates in these communities.
